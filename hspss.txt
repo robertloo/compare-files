@@ -10,7 +10,7 @@ ACTION:  Final rule.
 
 SUMMARY: This final rule modernizes the Head Start Program Performance Standards, last revised in 1998.  In the Improving Head Start for School Readiness Act of 2007, Congress instructed the Office of Head Start to update its performance standards and to ensure any such revisions to the standards do not eliminate or reduce quality, scope, or types of health, educational, parental involvement, nutritional, social, or other services programs provide.  This rule responds to public comment, incorporates extensive findings from research and from consultation with experts, reflects best practices, lessons from program input and innovation, integrates recommendations from the Secretary’s Advisory Committee Final Report on Head Start Research and Evaluation, and reflects the Obama Administration’s deep commitment to improve the school readiness of young children.  These performance standards will improve program quality, reduce burden on programs, and improve regulatory clarity and transparency.  They provide a clear road map for current and prospective grantees to support high-quality Head Start services and to strengthen the outcomes of the children and families Head Start serves.  
 
-DATES: Effective Date:  Provisions of this final rule become effective November 7, 2016.  
+DATES: Effective Date:  Provisions of this final rule become effective [INSERT DATE 60 DAYS AFTER DATE OF PUBLICATION IN THE FEDERAL REGISTER].  
      	Compliance Date(s):  To allow programs reasonable time to implement certain performance standards, we phase in compliance dates over several years after this final rule becomes effective.  In the SUPPLEMENTARY INFORMATION section below, we provide a table, Table 1: Compliance Table, which lists dates by which programs must implement specific standards.   
 
 FOR FURTHER INFORMATION CONTACT: Colleen Rathgeb, Division Director of Early Childhood Policy and Budget, Office of Early Childhood Development, at OHS_Final_Rule@acf.hhs.gov or (202) 401-1195 (not a toll free call).  Deaf and hearing impaired individuals may call the Federal Dual Party Relay Service at 1–800–877–8339 between 8 a.m. and 7 p.m. Eastern Time.
@@ -1925,7 +1925,7 @@ Sec.
 
 AUTHORITY: 42 U.S.C. 9801 et seq.
 
-§1301.1 In general.  
+§1301.1 Purpose.  
       
       An agency, as defined in part 1305 of this chapter, must establish and maintain a formal structure for program governance that includes a governing body, a policy council at the agency level and policy committee at the delegate level, and a parent committee.  Governing bodies have a legal and fiscal responsibility to administer and oversee the agency’s Head Start and Early Head Start programs.  Policy councils are responsible for the direction of the agency’s Head Start and Early Head Start programs.  
       
@@ -2406,13 +2406,13 @@ Subpart B—Program Structure
       
 		(i) For brief absences of a teaching staff member for no more than five minutes; and,
    	
-   	(ii) During nap time, one teaching staff member may be replaced by one staff member or volunteer who does not meet the teaching qualifications required for the age.
+   	(ii) During nap time, one teaching staff member may be replaced by one staff member or trained volunteer who does not meet the teaching qualifications required for the age.
       
       (2) An Early Head Start or Migrant or Seasonal Head Start class that serves children under 36 months old must have two teachers with no more than eight children, or three teachers with no more than nine children.  Each teacher must be assigned consistent, primary responsibility for no more than four children to promote continuity of care for individual children.  A program must minimize teacher changes throughout a child’s enrollment, whenever possible, and consider mixed age group classes to support continuity of care.
       
-      (3) A class that serves a majority of children who are three years old must have no more than 17 children and a teacher and teaching assistant or two teachers. A double session class that serves a majority of children who are three years old must have no more than 15 children and a teacher and teaching assistant or two teachers.
+      (3) A class that serves a majority of children who are three years old must have no more than 17 children with a teacher and teaching assistant or two teachers. A double session class that serves a majority of children who are three years old must have no more than 15 children with a teacher and teaching assistant or two teachers.
       
-      (4) A class that serves a majority of children who are four and five years old must have no more than 20 children and a teacher and a teaching assistant or two teachers. A double session class that serves a majority of children who are four and five years old must have no more than 17 children and a teacher and a teaching assistant or two teachers.
+      (4) A class that serves a majority of children who are four and five years old must have no more than 20 children with a teacher and a teaching assistant or two teachers. A double session class that serves a majority of children who are four and five years old must have no more than 17 children with a teacher and a teaching assistant or two teachers.
       
 Table to §1302.21(b) — Center-based group size4 and 5 year olds No more than 20 children enrolled in any class. 
 No more than 17 children enrolled in any double session class.3 year olds No more than 17 children enrolled in any class. 
@@ -2435,7 +2435,7 @@ No more than 15 children enrolled in any double session class.Under 3 years old
       
       (ii) On or before February 1, 2020, the Secretary may lower the required percentage described in paragraph (c)(2)(iv) of this section, based on an assessment of the availability of sufficient funding to mitigate a substantial reduction in funded enrollment.
       
-      (4) Extension.  If an extension is necessary to ensure children enrolled in the program on November 7, 2016 are not displaced from the Early Head Start or Head Start program, a program may request a one-year extension from the responsible HHS official of the requirements outlined in paragraphs (c)(1) and (c)(2)(iii) of this section.
+      (4) Extension.  If an extension is necessary to ensure children enrolled in the program on [insert date 60 days after date of publication in the Federal Register] are not displaced from the Early Head Start or Head Start program, a program may request a one-year extension from the responsible HHS official of the requirements outlined in paragraphs (c)(1) and (c)(2)(iii) of this section.
       
       (5) Exemption for Migrant or Seasonal Head Start programs.  A Migrant or Seasonal program is not subject to the requirements described in §1302.21(c)(1) or (2), but must make every effort to provide as many days and hours of service as possible to each child and family. 
       
@@ -2526,9 +2526,9 @@ No more than 15 children enrolled in any double session class.Under 3 years old
       
       (4) In order to receive a waiver under this section, a program must provide supporting evidence that demonstrates the locally-designed variation effectively supports appropriate development and progress in children’s early learning outcomes.
       
-      (5) In order to receive a waiver of service duration, a program must meet the requirement in paragraph (c)(4) of this section, provide supporting evidence that it better meets the needs of parents than the applicable service duration minimums described in §1302.21(c)(1) and (c)(2)(iii) and (iv), or §1302.22(c), and assess the effectiveness of the variation in supporting appropriate development and progress in children’s early learning outcomes.  
+      (5) In order to receive a waiver of service duration, a program must meet the requirement in paragraph (c)(4) of this section, provide supporting evidence that it better meets the needs of parents than the applicable service duration minimums described in §1302.21(c)(1) and (c)(2)(iii) and (iv), §1302.22(c), or §1302.23(c), and assess the effectiveness of the variation in supporting appropriate development and progress in children’s early learning outcomes.  
       
-      (d) Transition from previously approved program options. If, before November 7, 2016 a program was approved to operate a program option that is no longer allowable under §§1302.21 through 1302.23, a program may continue to operate that model until July 31, 2018.
+      (d) Transition from previously approved program options. If, before [insert date 60 days after date of publication in the Federal Register], a program was approved to operate a program option that is no longer allowable under §§1302.21 through 1302.23, a program may continue to operate that model until July 31, 2018.
       
 
 Subpart C—Education and Child Development Program Services
@@ -3249,11 +3249,11 @@ Subpart I—Human Resources Management
 
       (a) Purpose.  A program must ensure all staff, consultants, and contractors engaged in the delivery of program services have sufficient knowledge, training and experience, and competencies to fulfill the roles and responsibilities of their positions and to ensure high-quality service delivery in accordance with the program performance standards. A program must provide ongoing training and professional development to support staff in fulfilling their roles and responsibilities.
        
-      (b) Early Head Start or Head Start director.  A program must ensure an Early Head Start or Head Start director hired November 7, 2016, has, at a minimum, a baccalaureate degree and experience in supervision of staff, fiscal management, and administration. 
+      (b) Early Head Start or Head Start director.  A program must ensure an Early Head Start or Head Start director hired after [insert date 60 days after date of publication in the Federal Register], has, at a minimum, a baccalaureate degree and experience in supervision of staff, fiscal management, and administration. 
  
-      (c) Fiscal officer. A program must assess staffing needs in consideration of the fiscal complexity of the organization and applicable financial management requirements and secure the regularly scheduled or ongoing services of a fiscal officer with sufficient education and experience to meet their needs.  A program must ensure a fiscal officer hired after November 7, 2016, is a certified public accountant or has, at a minimum, a baccalaureate degree in accounting, business, fiscal management, or a related field.
+      (c) Fiscal officer. A program must assess staffing needs in consideration of the fiscal complexity of the organization and applicable financial management requirements and secure the regularly scheduled or ongoing services of a fiscal officer with sufficient education and experience to meet their needs.  A program must ensure a fiscal officer hired after [insert date 60 days after date of publication in the Federal Register], is a certified public accountant or has, at a minimum, a baccalaureate degree in accounting, business, fiscal management, or a related field.
       
-      (d) Child and family services management staff qualification requirements--(1) Family, health, and disabilities management.  A program must ensure staff responsible for management and oversight of family services, health services, and services to children with disabilities hired after November 7, 2016 have, at a minimum, a baccalaureate degree, preferably related to one or more of the disciplines they oversee. 
+      (d) Child and family services management staff qualification requirements--(1) Family, health, and disabilities management.  A program must ensure staff responsible for management and oversight of family services, health services, and services to children with disabilities hired after [insert date 60 days after date of publication in the Federal Register], have, at a minimum, a baccalaureate degree, preferably related to one or more of the disciplines they oversee. 
 
       (2) Education management. As prescribed in section 648A(a)(2)(B)(i) of the Act, a program must ensure staff and consultants that serve as education managers or coordinators, including those that serve as curriculum specialists, have a baccalaureate or advanced degree in early childhood education or a baccalaureate or advanced degree and equivalent coursework in early childhood education with early education teaching experience.
       
@@ -3261,7 +3261,7 @@ Subpart I—Human Resources Management
       
        (2) Head Start center-based teacher qualification requirements. (i) The Secretary must ensure no less than fifty percent of all Head Start teachers, nationwide, have a baccalaureate degree in child development, early childhood education, or equivalent coursework.  
       
-      (ii) As prescribed in section 648A(a)(3)(B) of the Act, a program must ensure all center-based teachers have at least an associate’s or bachelor's degree in child development or early childhood education, equivalent coursework, or otherwise meet the requirements of section 648(a)(3)(B) of the Act.
+      (ii) As prescribed in section 648A(a)(3)(B) of the Act, a program must ensure all center-based teachers have at least an associate’s or bachelor's degree in child development or early childhood education, equivalent coursework, or otherwise meet the requirements of section 648A(a)(3)(B) of the Act.
 
       (3) Head Start assistant teacher qualification requirements. As prescribed in section 648A(a)(2)(B)(ii) of the Act, a program must ensure Head Start assistant teachers, at a minimum, have a CDA credential or a state-awarded certificate that meets or exceeds the requirements for a CDA credential, are enrolled in a program that will lead to an associate or baccalaureate degree or, are enrolled in a CDA credential program to be completed within two years of the time of hire. 
 
@@ -3277,7 +3277,7 @@ Subpart I—Human Resources Management
       
       (ii) Demonstrate competency to plan and implement home-based learning experiences that ensure effective implementation of the home visiting curriculum and promote children’s progress across the standards described in the Head Start Early Learning Outcomes Framework: Ages Birth to Five, including for children with disabilities and dual language learners, as appropriate, and to build respectful, culturally responsive, and trusting relationships with families.
 
-      (7) Family services staff qualification requirements.  A program must ensure staff who work directly with families on the family partnership process hired after November 7, 2016, have within eighteen months of hire, at a minimum, a credential or certification in social work, human services, family services, counseling or a related field. 
+      (7) Family services staff qualification requirements.  A program must ensure staff who work directly with families on the family partnership process hired after [insert date 60 days after date of publication in the Federal Register], have within eighteen months of hire, at a minimum, a credential or certification in social work, human services, family services, counseling or a related field. 
       
       (8) Health professional qualification requirements.  (i) A program must ensure health procedures are performed only by a licensed or certified health professional.
       
@@ -3433,9 +3433,9 @@ Subpart J—Program Management and Quality Improvement
 
 1302.103 Implementation of program performance standards.
 
-      (a) A current program as of November 7, 2016, must implement a program-wide approach for the effective and timely implementation of the changes to the program performance standards, including the purchase of materials and allocation of staff time, as appropriate.
+      (a) A current program as of [insert date 60 days after date of publication in the Federal Register], must implement a program-wide approach for the effective and timely implementation of the changes to the program performance standards, including the purchase of materials and allocation of staff time, as appropriate.
 
-           	(b) A program’s approach to implement the changes included in parts 1301 through 1304 of this chapter must ensure adequate preparation for effective and timely service delivery to children and their families including, at a minimum, review of community assessment data to determine the most appropriate strategy for implementing required program changes, including assessing any changes in the number of children who can be served, as necessary, the purchase of and training on any curriculum, assessment, or other materials, as needed, assessment of program-wide professional development needs, assessment of staffing patterns, the development of coordinated approaches described in §1302.101(b), and the development of appropriate protections for data sharing; and children enrolled in the program on November 7, 2016 are not displaced during a program year and that children leaving Early Head Start or Head Start at the end of the program year following November 7, 2016 as a result of any slot reductions received services described in §§1302.70 and 1302.72 to facilitate successful transitions to other programs.
+           	(b) A program’s approach to implement the changes included in parts 1301 through 1304 of this chapter must ensure adequate preparation for effective and timely service delivery to children and their families including, at a minimum, review of community assessment data to determine the most appropriate strategy for implementing required program changes, including assessing any changes in the number of children who can be served, as necessary, the purchase of and training on any curriculum, assessment, or other materials, as needed, assessment of program-wide professional development needs, assessment of staffing patterns, the development of coordinated approaches described in §1302.101(b), and the development of appropriate protections for data sharing; and children enrolled in the program on [insert date 60 days after date of publication in the Federal Register] are not displaced during a program year and that children leaving Early Head Start or Head Start at the end of the program year following [insert date 60 days after date of publication in the Federal Register] as a result of any slot reductions received services described in §§1302.70 and 1302.72 to facilitate successful transitions to other programs.
 
 
 
@@ -3853,7 +3853,7 @@ Subpart E -- Facilities
       
 §1303.50 Third party leases and occupancy arrangements.
       
-      (a)  After November 7, 2016, if a grantee receives federal funds to purchase, construct or renovate a facility on real property the grantee does not own or to purchase or renovate a modular unit on real property the grantee does not own, the grantee must have a lease or other occupancy agreement of at least 30 years for purchase or construction of a facility and at least 15 years for a major renovation or placement of a modular unit.   
+      (a)  After [insert date 60 days after date of publication in the Federal Register], if a grantee receives federal funds to purchase, construct or renovate a facility on real property the grantee does not own or to purchase or renovate a modular unit on real property the grantee does not own, the grantee must have a lease or other occupancy agreement of at least 30 years for purchase or construction of a facility and at least 15 years for a major renovation or placement of a modular unit.   
       
       (b) The lease or occupancy agreement must:
       
@@ -4896,7 +4896,7 @@ Campbell, F. A., Ramey, C. T., Pungello, E., Sparling, J., & Miller-Johnson, S. 
 
 
 
-190
+92
 
 
 
